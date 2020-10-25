@@ -1,0 +1,8 @@
+# Codewars zadania
+
+Codewars zadania a ich riešenia v rôznych programovacích jazykoch (pri PHP aj s testami)
+
+Zatiaľ použité programovacie jazyky: PHP, RUBY
+
+
+
